@@ -8,9 +8,8 @@ public class Main {
 		Desktop d = new Desktop(8, 4, 600);
 		Notebook n = new Notebook(8, 4, 15);
 		
-		Computador comp;
-		
 		/*
+		Computador comp;
 		comp = d;
 		System.out.println("Valor: "+ comp.calculaValor());
 		comp = n;
